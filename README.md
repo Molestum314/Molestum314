@@ -2,7 +2,7 @@
 
 # 
 <h1 align="center">👋 Hi 👋 I'm Dimas Muhammad Rizki</h1>
-<h3 align="center">A student who likes to study in the field of computer engineering and informatics</h3>
+<h3 align="center">A student who likes things about computer engineering and informatics</h3>
 
 <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=Molestum314&show_icons=true&theme=github_dark" />
 
