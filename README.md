@@ -3,7 +3,7 @@
 
 <img align="left" width="42%" src="https://github-readme-stats.vercel.app/api?username=Molestum314&show_icons=true&theme=github_dark" />
 
-<img align="center" width="54%" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod" />
+<img align="center" width="54%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Molestum314" />
 
 # 
 # 🎨 Multimedia Software 🎨
