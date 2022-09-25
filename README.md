@@ -1,4 +1,4 @@
-<img width="1000" height="400" class="giphy-embed" allowFullScreen src="https://media.giphy.com/media/5xaOcLyjXRo4hX5UhSU/giphy.gif" />
+<img width="1000" height="400" src="https://camo.githubusercontent.com/d083e90ec206d8cc21183d70f7d3861da53cd5ade858ecd5d02902fc6c6f572a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3578614f634c796a58526f34685835556853552f67697068792e676966" />
 
 # 
 # 👋 Hello World, I'm Dimas 👋
