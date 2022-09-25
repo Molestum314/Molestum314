@@ -1,4 +1,4 @@
-<img width="480" height="199" frameBorder="0" class="giphy-embed" src="hhttps://giphy.com/embed/5xaOcLyjXRo4hX5UhSU" />
+<img width="1000" height="400" class="giphy-embed" allowFullScreen src="https://media.giphy.com/media/5xaOcLyjXRo4hX5UhSU/giphy.gif" />
 
 # 
 # 👋 Hello World, I'm Dimas 👋
