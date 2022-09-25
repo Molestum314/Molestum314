@@ -1,9 +1,9 @@
 
 # 👋 Hello World, I'm Dimas 👋
 
-<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=Molestum314&show_icons=true&theme=github_dark" />
+<img align="left" width="60%" src="https://github-readme-stats.vercel.app/api?username=Molestum314&show_icons=true&theme=github_dark" />
 
-<img align="center" width="51%" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod" />
+<img align="left" width="55%" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod" />
 
 # 
 # 🎨 Multimedia Software 🎨
