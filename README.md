@@ -7,7 +7,8 @@
 <h1
 </p>
 <p align="center">
-<img align="left" width="58%" src="https://github-readme-stats.vercel.app/api?username=Molestum314&show_icons=true&theme=github_dark" /> <img align="center" alt="Twice" width="40%" src="https://camo.githubusercontent.com/5a729b57d9cf4784fe3958a95b1630ae0d002a37c67abdfd582638ac16e8d197/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f375872536c5244666d4630344f67473363772f67697068792e676966">
+<img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=Molestum314&show_icons=true&theme=github_dark" /> <img align="center" alt="Twice" width="38%" src="https://camo.githubusercontent.com/5a729b57d9cf4784fe3958a95b1630ae0d002a37c67abdfd582638ac16e8d197/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f375872536c5244666d4630344f67473363772f67697068792e676966">
+
 
 <h1 align="center">🎨 Multimedia Software
 </p>
