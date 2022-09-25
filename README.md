@@ -1,3 +1,5 @@
+<img width="480" height="199" frameBorder="0" class="giphy-embed" src="hhttps://giphy.com/embed/5xaOcLyjXRo4hX5UhSU" />
+
 # 
 # 👋 Hello World, I'm Dimas 👋
 
