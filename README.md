@@ -27,7 +27,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/dimas-muhammad-rizki-58954824b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="50" /></a>
 <a href="https://www.instagram.com/dmzx_3134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dmzx_3134" height="40" width="60" /></a>
-<a href="https://www.youtube.com/c/[rishav chanda](https://www.youtube.com/channel/UC8YupMxaCo_kZkpIRx6CfQw)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Molestum314" height="40" width="60" />
+<a href="https://www.youtube.com/channel/UC8YupMxaCo_kZkpIRx6CfQw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Molestum314" height="40" width="60" />
 
 # 
 </p>
