@@ -3,7 +3,7 @@
 #
 </p>
 <h1 align="center">👋 Hello World :) I'm Dimas Muhammad Rizki </p>
-</p> <h3 align="center"> A student who likes things about computer informatics and engineering </h3>
+</p> <h3 align="center"> A student who likes things about computer and informatics engineering </h3>
 <h1
 </p>
 <p align="center">
