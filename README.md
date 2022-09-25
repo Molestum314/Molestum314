@@ -26,7 +26,7 @@
 
 <img align="left" alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
 
-<img align="right" />
+<img align="center" />
 
 # 
 # 🧑🏻‍💻 Programming Language 🧑🏻‍💻
