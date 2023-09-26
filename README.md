@@ -1,3 +1,4 @@
+</p> <br>
 <img align="center" width="1000" height="350" src="https://camo.githubusercontent.com/d083e90ec206d8cc21183d70f7d3861da53cd5ade858ecd5d02902fc6c6f572a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3578614f634c796a58526f34685835556853552f67697068792e676966" />
 
 #
@@ -6,11 +7,21 @@
 </p> <h3 align="center"> A student who likes things about computer and informatics engineering </h3>
 <h1
 </p>
-<p align="left">
-<img align="left" width="57%" src="https://github-readme-stats.vercel.app/api?username=Molestum314&show_icons=true&theme=github_dark" /> <img align="center" alt="Twice" width="39%" src="https://camo.githubusercontent.com/5a729b57d9cf4784fe3958a95b1630ae0d002a37c67abdfd582638ac16e8d197/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f375872536c5244666d4630344f67473363772f67697068792e676966">
-<p> 
- <img align="center" width="1000" height="350" src="https://wakatime.com/share/@Molestum314/a77f6090-db81-40b8-8340-7b825e380aa6.svg" /> </p>
-<p>
+<p align="center"> <img align="center" width="800" height="350" src="https://github-readme-stats.vercel.app/api?username=Molestum314&show_icons=true&theme=github_dark" /> 
+
+  
+<table>
+  <tr>
+    <td align="left">
+      <img align="center" alt="Twice" width="600" height="300" src="https://camo.githubusercontent.com/5a729b57d9cf4784fe3958a95b1630ae0d002a37c67abdfd582638ac16e8d197/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f375872536c5244666d4630344f67473363772f67697068792e676966"/>
+    </td>
+    <td align="right">
+      <img align="center" width="500" height="300" src="https://wakatime.com/share/@Molestum314/a77f6090-db81-40b8-8340-7b825e380aa6.svg" />
+    </td>
+  </tr>
+</table>
+
+
 
 <p> <br>
 <h1 align="center">🎨 Multimedia Software
@@ -29,9 +40,7 @@
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/dimas-muhammad-rizki-58954824b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="50" /></a>
-<a href="https://www.instagram.com/dmzx_3134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dmzx_3134" height="40" width="60" /></a>
-<a href="https://www.youtube.com/channel/UC8YupMxaCo_kZkpIRx6CfQw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Molestum314" height="40" width="60" />
+<a href="https://www.instagram.com/ddmzxx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dmzx_3134" height="40" width="60" /></a>
+<a href="https://www.youtube.com/watch?v=yi77T_OPHdo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Molestum314" height="40" width="60" />
 
-# 
-</p> <br>
  
