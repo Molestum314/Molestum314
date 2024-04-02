@@ -1,5 +1,5 @@
 </p> <br>
-<img align="center" width="1000" height="350" src="https://camo.githubusercontent.com/d083e90ec206d8cc21183d70f7d3861da53cd5ade858ecd5d02902fc6c6f572a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3578614f634c796a58526f34685835556853552f67697068792e676966" />
+<img align="center" width="1400" height="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmpnam5mamN3Y2tieHEwZW0wNnd2OWoxbzJmdTI4azkxbDgxYmo0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SeO1z0e6Gmf5h06760/giphy.gif" />
 
 #
 </p>
