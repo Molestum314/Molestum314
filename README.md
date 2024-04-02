@@ -1,5 +1,5 @@
 </p> <br>
-<img align="center" width="1400" height="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmpnam5mamN3Y2tieHEwZW0wNnd2OWoxbzJmdTI4azkxbDgxYmo0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SeO1z0e6Gmf5h06760/giphy.gif" />
+<img align="center" width="1400" height="520" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmpnam5mamN3Y2tieHEwZW0wNnd2OWoxbzJmdTI4azkxbDgxYmo0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SeO1z0e6Gmf5h06760/giphy.gif" />
 
 #
 </p>
@@ -8,20 +8,7 @@
 <h1
 </p>
 <p align="center"> <img align="center" width="800" height="350" src="https://github-readme-stats.vercel.app/api?username=Molestum314&show_icons=true&theme=github_dark" /> 
-
-  
-<table>
-  <tr>
-    <td align="left">
-      <img align="center" alt="Twice" width="600" height="300" src="https://camo.githubusercontent.com/5a729b57d9cf4784fe3958a95b1630ae0d002a37c67abdfd582638ac16e8d197/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f375872536c5244666d4630344f67473363772f67697068792e676966"/>
-    </td>
-    <td align="right">
-      <img align="center" width="500" height="300" src="https://wakatime.com/share/@Molestum314/a77f6090-db81-40b8-8340-7b825e380aa6.svg" />
-    </td>
-  </tr>
-</table>
-
-
+  <p align="center"> <img align="center" width="800" height="350" src="https://wakatime.com/share/@Molestum314/a77f6090-db81-40b8-8340-7b825e380aa6.svg" /> 
 
 <p> <br>
 <h1 align="center">🎨 Multimedia Software
