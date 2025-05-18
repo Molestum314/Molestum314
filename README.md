@@ -1,5 +1,5 @@
 </p> <br>
-<img align="center" width="1400" height="520" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmpnam5mamN3Y2tieHEwZW0wNnd2OWoxbzJmdTI4azkxbDgxYmo0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SeO1z0e6Gmf5h06760/giphy.gif" />
+<img align="center" width="1400" height="520" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODk3a3Btamkyb25pN2pkMzB5azh6MDIwbTE2ajRtOTMzYnFodHdtMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xD0ejemHClusxucj8b/giphy.gif" />
 
 #
 </p>
@@ -14,20 +14,39 @@
 <h1 align="center">🎨 Multimedia Software
 </p>
 <p align="center">
-<img align="center" alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" /> <img align="center" alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" /> <img align="center" alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" /> <img align="center" alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" /> 
-
-<img align="center" alt="Adobe Audition" src="https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white" /> <img align="center" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" /> <img align="center" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /> <img align="center" alt="Autodesk" src="https://img.shields.io/badge/Autodesk-0696D7.svg?style=for-the-badge&logo=Autodesk&logoColor=white" /> <img align="center" alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
+<!-- Creative Software -->
+<img align="center" alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
+<img align="center" alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
+<img align="center" alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" />
+<img align="center" alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
+<img align="center" alt="Adobe Audition" src="https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white" />
+<img align="center" alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
+<img align="center" alt="Adobe Animate" src="https://img.shields.io/badge/Adobe%20Animate-FC1F20.svg?style=for-the-badge&logo=Adobe%20Animate&logoColor=white" />
+<img align="center" alt="FL Studio" src="https://img.shields.io/badge/FL%20Studio-ff8000.svg?style=for-the-badge&logo=FL%20Studio&logoColor=white" />
+<img align="center" alt="Unity" src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
+<img align="center" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+<img align="center" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+<img align="center" alt="Autodesk" src="https://img.shields.io/badge/Autodesk-0696D7.svg?style=for-the-badge&logo=Autodesk&logoColor=white" />
+<img align="center" alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
 
 <h1 align="center">🧑🏻‍💻 Programming Language
 </p>
 <p align="center">
-<img align="center" alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img align="center" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img align="center" alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <img align="center" alt="JS" src="https://badges.aleen42.com/src/javascript.svg" />
+<img align="center" alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /> 
+<img align="center" alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
+<img align="center" alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" /> 
+<img align="center" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /> 
+<img align="center" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> 
+<img align="center" alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> 
+<img align="center" alt="JS" src="https://badges.aleen42.com/src/javascript.svg" />
 
 <h1 align="center"> 🔗 Connect with me
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/dimas-muhammad-rizki-58954824b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="50" /></a>
-<a href="https://www.instagram.com/ddmzxx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dmzx_3134" height="40" width="60" /></a>
-<a href="https://www.youtube.com/watch?v=yi77T_OPHdo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Molestum314" height="40" width="60" />
+<a href="https://www.linkedin.com/in/dimasmrizki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="50" /></a>
+<a href="https://www.instagram.com/dmzx314/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dmzx314" height="40" width="60" /></a>
+<a href="https://soundcloud.com/molestum" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/soundcloud.svg" alt="Molestum314" height="40" width="60" />
+</a>
 
  
