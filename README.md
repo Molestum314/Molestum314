@@ -20,7 +20,9 @@ I have actively contributed to campus projects, lecturer-assigned productions, i
 Currently open to opportunities that allow me to grow further in the multimedia and creative technology industries. </h3>
 <h1
 </p>
-<p align="center"> <img align="center" width="800" height="350" src="https://github-readme-stats.vercel.app/api?username=Molestum314&show_icons=true&theme=github_dark" /> 
+<p align="center">
+  <img align="center" width="800" height="350" src="https://github-readme-stats.vercel.app/api?username=Molestum314&show_icons=true&theme=github_dark&cache_seconds=60" />
+</p>
   <p align="center"> <img align="center" width="800" height="350" src="https://wakatime.com/share/@Molestum314/a77f6090-db81-40b8-8340-7b825e380aa6.svg" /> 
 
 <p> <br>
