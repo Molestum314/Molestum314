@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Digital Multimedia graduate from Politeknik Negeri Jakarta.<br>
+  Graduate of the Department of Computer and Informatics Engineering, Politeknik Negeri Jakarta.<br>
   I build interactive experiences across VR, the web, and mobile,<br>
   with a creative background in game design and audio production.
 </p>
@@ -86,7 +86,7 @@ An application presenting the Department of Mechanical Engineering at Politeknik
 
 ## Background
 
-**Politeknik Negeri Jakarta** — Digital Multimedia, Department of Computer and Informatics Engineering.
+**Politeknik Negeri Jakarta** — Department of Computer and Informatics Engineering.
 
 My experience includes academic projects, lecturer-assigned productions, internships, and organizational events. I bring both development and multimedia production experience to interactive projects.
 
