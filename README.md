@@ -1,75 +1,109 @@
-</p> <br>
-<img align="center" width="1400" height="500" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODk3a3Btamkyb25pN2pkMzB5azh6MDIwbTE2ajRtOTMzYnFodHdtMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xD0ejemHClusxucj8b/giphy.gif" />
+<h1 align="center">Dimas Muhammad Rizki</h1>
 
-#
-</p>
-<h1 align="center">👋 Hello World :) I'm Dimas Muhammad Rizki </p>
-</p> <h3 align="center"> A passionate and skilled Computer and Informatics Engineering student majoring in Digital Multimedia at the State Polytechnic of Jakarta. Experienced in various creative and technical projects, both academic and professional.
-
-I have hands-on experience in:
-- Video & Audio Editing
-- 2D & 3D Animation
-- UI/UX Design
-- Website & Mobile App Development
-- Motion Graphics
-- Music Production & Sound Design
-- Graphic Design & Digital Content Creation
-
-I have actively contributed to campus projects, lecturer-assigned productions, internships, and organizational events. Known for being proactive, adaptable, and detail-oriented, I thrive in collaborative environments and always aim to bring creative ideas to life through digital media.
-
-Currently open to opportunities that allow me to grow further in the multimedia and creative technology industries. </h3>
-<h1
-</p>
 <p align="center">
-  <img align="center" width="800" height="350" src="https://github-readme-stats.vercel.app/api?username=Molestum314&show_icons=true&theme=github_dark&cache_seconds=60" />
+  <strong>Unity / C# &nbsp;·&nbsp; Web Development &nbsp;·&nbsp; Android</strong>
 </p>
-  <p align="center"> <img align="center" width="800" height="350" src="https://wakatime.com/share/@Molestum314/a77f6090-db81-40b8-8340-7b825e380aa6.svg" /> 
 
-<p> <br>
-<h1 align="center">🎨 Multimedia Software
-</p>
 <p align="center">
-<!-- Creative Software -->
-<img align="center" alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
-<img align="center" alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
-<img align="center" alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" />
-<img align="center" alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
-<img align="center" alt="Adobe Audition" src="https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white" />
-<img align="center" alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
-<img align="center" alt="Adobe Animate" src="https://img.shields.io/badge/Adobe%20Animate-FC1F20.svg?style=for-the-badge&logo=Adobe%20Animate&logoColor=white" />
-<img align="center" alt="FL Studio" src="https://img.shields.io/badge/FL%20Studio-ff8000.svg?style=for-the-badge&logo=FL%20Studio&logoColor=white" />
-<img align="center" alt="Unity" src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
-<img align="center" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-<img align="center" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-<img align="center" alt="Autodesk" src="https://img.shields.io/badge/Autodesk-0696D7.svg?style=for-the-badge&logo=Autodesk&logoColor=white" />
-<img align="center" alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
-
-<h1 align="center">🧑🏻‍💻 Programming Language
+  Digital Multimedia graduate from Politeknik Negeri Jakarta.<br>
+  I build interactive experiences across VR, the web, and mobile,<br>
+  with a creative background in game design and audio production.
 </p>
-<p align="center">
-<img align="center" alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /> 
-<img align="center" alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
-<img align="center" alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" /> 
-<img align="center" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /> 
-<img align="center" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> 
-<img align="center" alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> 
-<img align="center" alt="JS" src="https://badges.aleen42.com/src/javascript.svg" />
 
-<h1 align="center"> 🔗 Connect with me
+<p align="center">
+  <a href="https://www.linkedin.com/in/dimasmrizki"><strong>LinkedIn</strong></a>
+  &nbsp; / &nbsp;
+  <a href="#selected-projects"><strong>Explore my projects</strong></a>
+  &nbsp; / &nbsp;
+  <a href="https://github.com/Molestum314?tab=repositories">All repositories</a>
 </p>
-<p align="center">
-<a href="https://www.linkedin.com/in/dimasmrizki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="50" /></a>
-<a href="https://www.instagram.com/dmzx314/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dmzx314" height="40" width="60" /></a>
-<a href="https://soundcloud.com/molestum" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/soundcloud.svg" alt="Molestum314" height="40" width="60" />
-</a>
-<a href="https://www.tiktok.com/@el_mochi314" target="_blank">
-  <img align="center" src="https://www.iconsdb.com/icons/preview/white/tiktok-xxl.png" alt="el_mochi314" width="40" height="40" />
-</a>
 
+<p align="center"><em>Open to junior developer opportunities.</em></p>
 
+---
 
+## Selected Projects
 
+### 01 · MolekuLab
+**VR chemistry game & companion management app**
 
+A Unity project for learning about molecules in virtual reality, paired with a Unity application for managing who can join.
 
- 
+- **My work:** VR game development and the companion application for participant access management.
+- **Technology:** C#, Unity, and Cloudflare services for data storage.
+- **Availability:** Repository and project files are being prepared for publication.
+
+### 02 · Rahara Batik
+**Educational game about batik · PMGD MSIB Batch 7**
+
+A team project built with Ren'Py, combining an educational batik theme with interactive storytelling.
+
+- **My contribution:** Game design covering game flow, layouts, mechanics, and story; audio production; and quality assurance (QA).
+- **Engine:** Ren'Py.
+- **Explore:** [Project & game build](https://github.com/Molestum314/Rahara_Batik_Game_Build-MSIB_Batch_7) · [Screenshots](https://github.com/Molestum314/Rahara_Batik_Game_Build-MSIB_Batch_7/tree/main/Screenshot%20Game) · [Trailer](https://www.youtube.com/watch?v=ODvBs09ioNk)
+
+### 03 · AudioVibe
+**Interactive music label website**
+
+A music label website with artist and company sections, a gallery, and an interactive music player.
+
+- **My work:** Website development and interactive music features.
+- **Implementation:** Play/pause, previous/next track, volume controls, playback progress, and seeking.
+- **Technology:** HTML, CSS, JavaScript, Bootstrap, and jQuery.
+- **Explore:** [Repository](https://github.com/Molestum314/audiovibe-webdesign) · [Music player code](https://github.com/Molestum314/audiovibe-webdesign/blob/main/js/musicPlayer.js)
+
+### 04 · PNL Mobile
+**Android department information app**
+
+An application presenting the Department of Mechanical Engineering at Politeknik Negeri Lhokseumawe, using the institution's website as a content reference.
+
+- **My work:** Application development for study programs, department objectives, vision and mission, lecturer information, and learning outcomes.
+- **Technology:** Java, XML layouts, and Android Studio; activity and fragment navigation.
+- **Explore:** [Source code](https://github.com/Molestum314/PNL-Mobile-App/tree/main/PNL_Mobile_Sourcecode) · [Screenshots](https://github.com/Molestum314/PNL-Mobile-App/tree/main/PNL_Mobile_Screenshoot) · [APK](https://github.com/Molestum314/PNL-Mobile-App/tree/main/PNL_Mobile_APK)
+
+---
+
+## Technical & Creative Toolkit
+
+| Area | Technologies / contribution |
+| :--- | :--- |
+| VR & interactive applications | C#, Unity |
+| Web development | HTML, CSS, JavaScript, Bootstrap, jQuery |
+| Android development | Java, XML, Android Studio |
+| Game production | Game design, Ren'Py project experience, audio production, QA |
+| Data services | Cloudflare services used in MolekuLab |
+
+<details>
+<summary><strong>Additional skills & creative tools</strong></summary>
+
+**Programming & database foundations:** C, C++, MySQL.
+
+**Creative experience:** Video and audio editing, 2D and 3D animation, UI/UX design, motion graphics, music production, sound design, graphic design, and digital content creation.
+
+**Tools:** Adobe Photoshop, Illustrator, After Effects, Premiere Pro, Audition, XD, Animate; FL Studio, Figma, Blender, Autodesk tools, and Canva.
+
+</details>
+
+## Background
+
+**Politeknik Negeri Jakarta** — Digital Multimedia, Department of Computer and Informatics Engineering.
+
+My experience includes academic projects, lecturer-assigned productions, internships, and organizational events. I bring both development and multimedia production experience to interactive projects.
+
+## Connect
+
+For professional opportunities: **[LinkedIn](https://www.linkedin.com/in/dimasmrizki)**.
+
+[Instagram](https://www.instagram.com/dmcy314/) · [SoundCloud](https://soundcloud.com/molestum) · [TikTok](https://www.tiktok.com/@el_mochi314)
+
+<details>
+<summary>GitHub activity & coding time</summary>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Molestum314&amp;show_icons=true&amp;theme=github_dark" alt="GitHub activity statistics for Molestum314" width="480">
+</p>
+<p>
+  <img src="https://wakatime.com/share/@Molestum314/a77f6090-db81-40b8-8340-7b825e380aa6.svg" alt="WakaTime coding activity for Molestum314" width="480">
+</p>
+
+</details>
