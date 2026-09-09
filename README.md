@@ -7,7 +7,8 @@
 <p align="center">
   Graduate of the Department of Computer and Informatics Engineering, Politeknik Negeri Jakarta.<br>
   I build interactive experiences across VR, the web, and mobile,<br>
-  with a creative background in game design and audio production.
+  with a background in multimedia production:<br>
+  video editing, music production, photo editing, and LED screen visuals for events.
 </p>
 
 <p align="center">
@@ -78,7 +79,7 @@ An application presenting the Department of Mechanical Engineering at Politeknik
 
 **Programming & database foundations:** C, C++, MySQL.
 
-**Creative experience:** Video and audio editing, 2D and 3D animation, UI/UX design, motion graphics, music production, sound design, graphic design, and digital content creation.
+**Creative experience:** Video and audio editing, music production, photo editing, LED screen visuals for events, 2D and 3D animation, UI/UX design, motion graphics, sound design, graphic design, and digital content creation.
 
 **Tools:** Adobe Photoshop, Illustrator, After Effects, Premiere Pro, Audition, XD, Animate; FL Studio, Figma, Blender, Autodesk tools, and Canva.
 
@@ -97,11 +98,8 @@ For professional opportunities: **[LinkedIn](https://www.linkedin.com/in/dimasmr
 [Instagram](https://www.instagram.com/dmcy314/) · [SoundCloud](https://soundcloud.com/molestum) · [TikTok](https://www.tiktok.com/@el_mochi314)
 
 <details>
-<summary>GitHub activity & coding time</summary>
+<summary>Coding time · WakaTime</summary>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Molestum314&amp;show_icons=true&amp;theme=github_dark" alt="GitHub activity statistics for Molestum314" width="480">
-</p>
 <p>
   <img src="https://wakatime.com/share/@Molestum314/a77f6090-db81-40b8-8340-7b825e380aa6.svg" alt="WakaTime coding activity for Molestum314" width="480">
 </p>
